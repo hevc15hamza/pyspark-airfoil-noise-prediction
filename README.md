@@ -1,7 +1,7 @@
 # Airfoil Noise Prediction using Apache Spark
 
 An end-to-end Machine Learning pipeline built with PySpark to predict airfoil self-noise. This repository contains the final project for the **Machine Learning with Apache Spark** course by IBM on Coursera.
-
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/46f04ac7-86a3-467d-a8e7-897a7c889307" />
 ## 📝 Project Overview
 
 The goal of this project is to assist an aeronautics consulting company in efficiently designing airfoils for planes and sports cars. Using the **NASA Airfoil Self Noise dataset**, this project demonstrates how to perform data engineering (ETL) and build a robust machine learning pipeline using Apache Spark to predict the sound level (`SoundLevelDecibels`) based on various aerodynamic and acoustic features.
